@@ -26,9 +26,9 @@ inside `location /` block, add config:
     }
 ```
 
-test config and restart:
-`nginx -t` - test config file syntax
-`systemctl reload nginx` - reload config
-`systemctl restart nginx`
+test config and restart:  
+`nginx -t` - test config file syntax  
+`systemctl reload nginx` - reload config   
+`systemctl restart nginx`  
 
 node app will now be at http://ip (not :3000)
