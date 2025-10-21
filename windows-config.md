@@ -1,2 +1,2 @@
-* O&O ShutUp10++ - https://www.oo-software.com/en/download/current/ooshutup10
-* Winaero Tweaker - https://winaerotweaker.com/
+- O&O ShutUp10++ - https://www.oo-software.com/en/download/current/ooshutup10
+- Winaero Tweaker - https://winaerotweaker.com/
