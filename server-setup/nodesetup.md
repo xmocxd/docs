@@ -6,14 +6,14 @@
 pm2 can now be controlled via systemctl like `systemctl start pm2-root`  
 
 # pm2
-`pm2 monit` - monitor
-`pm2 list` - list managed apps
-`pm2 start xyz.js` - start node app
+`pm2 monit` - monitor  
+`pm2 list` - list managed apps  
+`pm2 start xyz.js` - start node app  
 
 # nginx setup
 
-edit `/etc/nginx/sites-available/default`
-inside `location /` block, add config:
+edit `/etc/nginx/sites-available/default`  
+inside `location /` block, add config:  
 
 ```
     location / {
