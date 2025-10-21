@@ -1,9 +1,9 @@
 # init / install steps
-`apt install nodejs`
-`apt install npm`
-`npm install pm2@latest -g` - install node process manager
-`pm2 startup systemd` - configure pm2 startup script for systemd
-pm2 can now be controlled via systemctl like `systemctl start pm2-root`
+`apt install nodejs`  
+`apt install npm`  
+`npm install pm2@latest -g` - install node process manager  
+`pm2 startup systemd` - configure pm2 startup script for systemd  
+pm2 can now be controlled via systemctl like `systemctl start pm2-root`  
 
 # pm2
 `pm2 monit` - monitor
